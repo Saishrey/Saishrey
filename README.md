@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saishrey&label=Profile%20views&color=0e75b6&style=flat" alt="saishrey" /> </p>
 
-- 🏫 I’m currently studying **Computer Science at Goa College of Engineering**
+- 🏫 I’m currently studying **Computer Engineering at Goa College of Engineering**
 
 - 🤹🏽 I have experience in both **Android and Web Development**
 
