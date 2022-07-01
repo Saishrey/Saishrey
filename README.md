@@ -7,7 +7,7 @@
 
 - 🤹🏽 I have experience in both **Android and Web Development**
 
-- 💻 This is the link to my mini project [MusicSTORE Ecommerce Website](http://almightycoderofficial.42web.io/public/)
+- 💻 This is the link to my mini project [MusicSTORE Ecommerce Website](https://github.com/Saishrey/MusicSTORE-Ecommerce-Website)
 
 - 💬 Besides programming, I also love **gaming, automotives and exploring new stuff**
 
