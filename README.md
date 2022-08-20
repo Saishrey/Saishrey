@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saishrey&label=Profile%20views&color=0e75b6&style=flat" alt="saishrey" /> </p>
 
-- 🗒️ More about my skills/projects [Resume](https://drive.google.com/file/d/1OrZLlCFlAPu_EUhEjBhIFzgLrZyJ0Ji-/view?usp=sharing)
+- 🗒️ More about me [Resume](https://drive.google.com/file/d/1OrZLlCFlAPu_EUhEjBhIFzgLrZyJ0Ji-/view?usp=sharing)
 
 - 💻 Mini project on DBMS [MusicSTORE E-commerce Website](https://github.com/Saishrey/MusicSTORE-Ecommerce-Website)
 
